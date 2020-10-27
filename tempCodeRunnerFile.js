@@ -1,0 +1,1 @@
+primeNum(20)
